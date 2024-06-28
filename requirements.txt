@@ -2,3 +2,4 @@ solara==1.28.0
 pandas
 plotly
 pygwalker
+tabulate
